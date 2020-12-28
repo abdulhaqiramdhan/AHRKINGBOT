@@ -1157,7 +1157,7 @@ conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageTy
 else if (text == 'Abdul'){
 conn.sendMessage(id, ' *Iya Abdul itu ownerku kak... Ada yang bisa dibantu? , Follow Instagram Mimin yah : https://instagram.com/abdulhaqiramdhan*' ,MessageType.text);
 }
-else if (text == 'Aisyah){
+else if (text == 'Aisyah'){
 conn.sendMessage(id, ' *Iyaa Aisyah itu pacarnya ownerku kak... Ada yang bisa dibantu?  , Follow Instagram pacar Mimin Yah : https://instagram.com/syahilaa.ss*' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
