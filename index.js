@@ -163,7 +163,7 @@ else if (text == '#donate'){
 conn.sendMessage(id, ' *Menampilkan Donasi!!!* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator FADHIL wa.me/6283102650464* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator AHRKING wa.me/6281776612563* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga Kakak... ada yang bisa kami bantu? Ketik *#help/#menu* untuk melihat fitur bot kami_ ' ,MessageType.text);
